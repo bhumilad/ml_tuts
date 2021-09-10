@@ -6,9 +6,13 @@
  
  *install* it
  
- ####numpy 
- ####pandas
- ####matplotlib
- ####seaborn 
- ####sklearn
+ #### numpy 
+ 
+ #### pandas
+ 
+ #### matplotlib
+ 
+ #### seaborn 
+ 
+ #### sklearn
  
